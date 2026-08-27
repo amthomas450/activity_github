@@ -1,3 +1,3 @@
 # activity_github
 Creating a GitHub Repository 
-I am 23 years of age and currently working on a project.
+My name is Anthony Thomas and I am 23 years of age.
